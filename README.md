@@ -30,7 +30,7 @@ const api = {
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AnastasiiaShkala/weather-app.git
+    git clone https://github.com/weather-app.git
     ```
 
 2. Open the `index.html` file in your browser.
